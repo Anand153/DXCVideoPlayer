@@ -1,0 +1,17 @@
+[
+{
+    "Name": "Song1",
+    "Singer": "Singer 1",
+    "Url": "assets/NiceSong.mp4"
+  },
+  {
+    "Name": "Song 2",
+    "Singer": "Singer 2",
+    "Url": " assets/NicerSong.mp4"
+  },
+  {
+    "Name": "song3",
+    "Singer": "Singer 3",
+    "Url": "assets/mov_bbb.mp4"
+ }
+]
